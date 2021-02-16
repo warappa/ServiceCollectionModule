@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31004.235
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warappa.Microsoft.Extensions.DependencyInjection.ServiceCollectionModule", "Warappa.Microsoft.Extensions.DependencyInjection.ServiceCollectionModule\Warappa.Microsoft.Extensions.DependencyInjection.ServiceCollectionModule.csproj", "{D943F2AB-1604-4F72-A61F-1D50A8D26011}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D943F2AB-1604-4F72-A61F-1D50A8D26011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D943F2AB-1604-4F72-A61F-1D50A8D26011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D943F2AB-1604-4F72-A61F-1D50A8D26011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D943F2AB-1604-4F72-A61F-1D50A8D26011}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64AB290F-B599-4D0A-ADFF-2D8DE6092181}
+	EndGlobalSection
+EndGlobal
